@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7-日期显示", "7-日期�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8-日期计算器", "8-日期计算器\8-日期计算器.vcxproj", "{BFC96887-DCC0-404B-8059-80839ABF50FC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9-字符串", "9-字符串\9-字符串.vcxproj", "{B02AFE8D-8B7E-4B97-A200-03C62674787B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{BFC96887-DCC0-404B-8059-80839ABF50FC}.Release|x64.Build.0 = Release|x64
 		{BFC96887-DCC0-404B-8059-80839ABF50FC}.Release|x86.ActiveCfg = Release|Win32
 		{BFC96887-DCC0-404B-8059-80839ABF50FC}.Release|x86.Build.0 = Release|Win32
+		{B02AFE8D-8B7E-4B97-A200-03C62674787B}.Debug|x64.ActiveCfg = Debug|x64
+		{B02AFE8D-8B7E-4B97-A200-03C62674787B}.Debug|x64.Build.0 = Debug|x64
+		{B02AFE8D-8B7E-4B97-A200-03C62674787B}.Debug|x86.ActiveCfg = Debug|Win32
+		{B02AFE8D-8B7E-4B97-A200-03C62674787B}.Debug|x86.Build.0 = Debug|Win32
+		{B02AFE8D-8B7E-4B97-A200-03C62674787B}.Release|x64.ActiveCfg = Release|x64
+		{B02AFE8D-8B7E-4B97-A200-03C62674787B}.Release|x64.Build.0 = Release|x64
+		{B02AFE8D-8B7E-4B97-A200-03C62674787B}.Release|x86.ActiveCfg = Release|Win32
+		{B02AFE8D-8B7E-4B97-A200-03C62674787B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
