@@ -1,7 +1,0 @@
-﻿  huffman.cpp
-E:\编程\oop作业\文件压缩小程序\文件压缩小程序\huffman.cpp(53,36): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
-E:\编程\oop作业\文件压缩小程序\文件压缩小程序\huffman.cpp(57,42): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-E:\编程\oop作业\文件压缩小程序\文件压缩小程序\huffman.cpp(72,43): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
-  main.cpp
-  正在生成代码...
-  文件压缩小程序.vcxproj -> E:\编程\oop作业\文件压缩小程序\x64\Debug\文件压缩小程序.exe
