@@ -1,5 +1,3 @@
-*.exe
-*.mp4
 x64/
 x86/
 debug/
